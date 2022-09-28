@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hintzy
 - 👀 I’m interested in fitness, rock climbing, and gaming.
-- 🌱 I’m currently learning Pythong in hopes to become a developer in the future (maybe the next year?).
+- 🌱 I’m currently learning Python in hopes to become a developer in the future.
 - 📫 How to reach me: dhintz@gmail.com
 
 <!---
